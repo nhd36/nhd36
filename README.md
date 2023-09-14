@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to my WorkSpace <img src="https://i.pinimg.com/originals/c8/aa/ba/c8aaba17c72d3b373a7b31806696e091.gif" width="30px" height="60px"></h1>
+<h1 align="center">Welcome to my WorkSpace <img src="https://i.pinimg.com/originals/c8/aa/ba/c8aaba17c72d3b373a7b31806696e091.gif" width="30px" height="30px"></h1>
 
 </br>
 
@@ -7,20 +7,15 @@
 <img src="https://i.pinimg.com/originals/59/87/1c/59871c7fb4ca4d906e9ef1f4566cd378.gif" height="290px" align="right">
 
 - 🏫 I'm currently a Rising-Senior at **[Drexel University]()**, majoring in `Computer Science 💻`
-
 - 👨🏻‍💻 I'm actively looking for ***Entry Level Software Engineer*** position
-
 - 👨🏻‍🚀 Previous working experiences:
   - [Amazon LLC]() | *Software Engineer Intern* (Jun 2023 - Sep 2023)
   - [Cisco Systems]() | *Software Engineer Intern* (Jun 2022 - Sep 2022)
   - [LexisNexis]() | *Software Engineer Intern* (Sep 2021 - Mar 2022)
   - [Computer Vision Vietnam]() | *Software Engineer Intern* (Sep 2020 - Mar 2021)
   - [FPT Software]() | *Data Engineer Intern* (Jun 2020 - Sep 2020)
-
 - ⚡ Fun fact: Big fan of ⚽️ but I'm not really good at the sport
-
 - 💬 Let's talk! I would love to know more about you!
-
 - 🙋‍♂️ Learn more about me at **[Nam Dao Website](https://nhd36.github.io/portfolio)**
 
 
