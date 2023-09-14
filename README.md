@@ -8,18 +8,18 @@
 
 - 🏫 I'm currently a Rising-Senior at **[Drexel University]()**, `Computer Science 💻` major
 - 👨🏻‍🚀 Previous working experiences:
-  - [Amazon LLC]() | *Software Engineer Intern* (Jun 2023 - Sep 2023)
-  - [Cisco Systems]() | *Software Engineer Intern* (Jun 2022 - Sep 2022)
-  - [LexisNexis]() | *Software Engineer Intern* (Sep 2021 - Mar 2022)
-  - [Computer Vision Vietnam]() | *Software Engineer Intern* (Sep 2020 - Mar 2021)
-  - [FPT Software]() | *Data Engineer Intern* (Jun 2020 - Sep 2020)
+  - [Amazon LLC](https://www.amazon.com/stores/page/D6F82882-7DA9-447B-A975-8031ED75D013) | *Software Engineer Intern* (Jun 2023 - Sep 2023)
+  - [Cisco Systems](https://www.cisco.com/) | *Software Engineer Intern* (Jun 2022 - Sep 2022)
+  - [LexisNexis](https://www.lexisnexis.com/en-us/gateway.page) | *Software Engineer Intern* (Sep 2021 - Mar 2022)
+  - [Computer Vision Vietnam](https://www.computervision.com.vn/) | *Software Engineer Intern* (Sep 2020 - Mar 2021)
+  - [FPT Software](https://fptsoftware.com/) | *Data Engineer Intern* (Jun 2020 - Sep 2020)
 - ⚡ Fun fact: Big fan of ⚽️ but I'm not really good at the sport
 - 👨🏻‍💻 I'm actively looking for ***Entry Level Software Engineer*** position
 - 💬 Let's talk! I would love to know more about you!
 - 🙋‍♂️ Learn more about me at **[Nam Dao Website](https://nhd36.github.io/portfolio)**
 
 
-## Technologies 🛠️
+## I'm a Builder 🛠️
 
 <p>
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="25px">
@@ -54,18 +54,18 @@
  <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
 </p>
 
-## Connections 🤝
+## Let's Connect 🤝
 <p>
-<a href="https://twitter.com/soumyajit4419" target="_blank">
+<a href="https://www.facebook.com/profile.php?id=100009633471586" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"  height="30px"/>
 </a> 
-<a href="https://www.linkedin.com/in/soumyajit4419/" target="_blank">
+<a href="https://www.linkedin.com/in/nhd36/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/>
 </a> 
-<a href="https://soumyajitblogs.vercel.app/" target="_blank">
+<a href="" target="_blank">
     <img alt="Blog" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/>
 </a> 
-<a href="https://www.instagram.com/soumyajit4419" target="_blank">
+<a href="https://www.instagram.com/__unclenam__/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/>
 </a>
 </p>
