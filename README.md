@@ -6,13 +6,13 @@
 
 <img src="https://i.pinimg.com/originals/59/87/1c/59871c7fb4ca4d906e9ef1f4566cd378.gif" height="290px" align="right">
 
-- 🏫 I'm currently a Rising-Senior at **[Drexel University]()**, `Computer Science 💻` major
+- 🏫 I'm currently a Rising-Senior at **[Drexel University](https://drexel.edu/)**, `Computer Science 💻` major
 - 👨🏻‍🚀 Previous working experiences:
-  - [Amazon LLC](https://www.amazon.com/stores/page/D6F82882-7DA9-447B-A975-8031ED75D013) | *Software Engineer Intern* (Jun 2023 - Sep 2023)
-  - [Cisco Systems](https://www.cisco.com/) | *Software Engineer Intern* (Jun 2022 - Sep 2022)
-  - [LexisNexis](https://www.lexisnexis.com/en-us/gateway.page) | *Software Engineer Intern* (Sep 2021 - Mar 2022)
-  - [Computer Vision Vietnam](https://www.computervision.com.vn/) | *Software Engineer Intern* (Sep 2020 - Mar 2021)
-  - [FPT Software](https://fptsoftware.com/) | *Data Engineer Intern* (Jun 2020 - Sep 2020)
+  - **[Amazon LLC](https://www.amazon.com/stores/page/D6F82882-7DA9-447B-A975-8031ED75D013)** | *Software Engineer Intern* (Jun 2023 - Sep 2023)
+  - **[Cisco Systems](https://www.cisco.com/)** | *Software Engineer Intern* (Jun 2022 - Sep 2022)
+  - **[LexisNexis](https://www.lexisnexis.com/en-us/gateway.page)** | *Software Engineer Intern* (Sep 2021 - Mar 2022)
+  - **[Computer Vision Vietnam](https://www.computervision.com.vn/)** | *Software Engineer Intern* (Sep 2020 - Mar 2021)
+  - **[FPT Software](https://fptsoftware.com/)** | *Data Engineer Intern* (Jun 2020 - Sep 2020)
 - ⚡ Fun fact: Big fan of ⚽️ but I'm not really good at the sport
 - 👨🏻‍💻 I'm actively looking for ***Entry Level Software Engineer*** position
 - 💬 Let's talk! I would love to know more about you!
