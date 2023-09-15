@@ -1,4 +1,4 @@
-<img src="https://i.gifer.com/Difj.gif" width="100%">
+<img src="https://i.imgur.com/Slen1Lc.gif" height="100px" width="100px" align="right">
 <h1 align="center">Welcome to my WorkSpace!</h1>
 
 </br>
