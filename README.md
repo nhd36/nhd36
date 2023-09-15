@@ -1,4 +1,5 @@
-<h1 align="center">Welcome to my WorkSpace <img src="https://i.pinimg.com/originals/c8/aa/ba/c8aaba17c72d3b373a7b31806696e091.gif" width="30px" height="30px"></h1>
+<img src="https://i.gifer.com/Difj.gif" width="100%">
+<h1 align="center">Welcome to my WorkSpace!</h1>
 
 </br>
 
